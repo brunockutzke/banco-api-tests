@@ -1,4 +1,4 @@
-# Banco API Tests
+# banco-api-tests
 
 ## 📌 Objetivo  
 Este projeto tem como objetivo automatizar os testes da [Banco API](https://github.com/juliodelimas/banco-api), contribuindo com a qualidade e consistência das funcionalidades oferecidas pela API REST.  
